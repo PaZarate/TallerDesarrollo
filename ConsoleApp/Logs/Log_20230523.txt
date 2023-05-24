@@ -1,0 +1,3 @@
+2023-05-23 23:24:07.739 -05:00 [ERR] FormatException La cadena de entrada no tiene el formato correcto.
+2023-05-23 23:25:29.424 -05:00 [INF] Error nombre
+2023-05-23 23:45:57.927 -05:00 [INF] El registro se realízó correctamente

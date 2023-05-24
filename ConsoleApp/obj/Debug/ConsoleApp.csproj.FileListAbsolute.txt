@@ -1,0 +1,14 @@
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\bin\Debug\Serilog.dll
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\bin\Debug\Serilog.Sinks.File.dll
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\bin\Debug\Serilog.xml
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\bin\Debug\Serilog.Sinks.File.pdb
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\bin\Debug\Serilog.Sinks.File.xml
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\10. DECIMO CICLO\TALLER DE DESARROLLO 2\PrimeraPractica\MyFirstSolution\ConsoleApp\obj\Debug\ConsoleApp.pdb
